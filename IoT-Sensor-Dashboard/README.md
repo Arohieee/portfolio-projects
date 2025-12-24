@@ -7,3 +7,4 @@
 1. Install required packages:
 ```bash
 pip install pandas matplotlib
+python code.py
